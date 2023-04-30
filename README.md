@@ -22,7 +22,7 @@ This script is intended for educational purposes only. The creator of this scrip
 
 ### Youtube Video
 
-Click [here](https://www.youtube.com/watch?v=dQw4w9WgXcQ) to see the full youtube video.
+Click [here](https://youtu.be/MFEsh-Qf4EE) to see the full youtube video.
 
 ### License
 
